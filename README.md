@@ -1,2 +1,2 @@
-# Sorting_Algorithms
- Experiment to compare different algorithms for finding median
+# Sorting Algorithms
+Various types of sorting algorithms that implemented in Java.
